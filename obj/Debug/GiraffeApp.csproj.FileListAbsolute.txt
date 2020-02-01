@@ -1,0 +1,9 @@
+c:\users\hilcomputer\documents\visual studio 2013\Projects\GiraffeApp\GiraffeApp\bin\Debug\GiraffeApp.exe.config
+c:\users\hilcomputer\documents\visual studio 2013\Projects\GiraffeApp\GiraffeApp\bin\Debug\GiraffeApp.exe
+c:\users\hilcomputer\documents\visual studio 2013\Projects\GiraffeApp\GiraffeApp\bin\Debug\GiraffeApp.pdb
+c:\users\hilcomputer\documents\visual studio 2013\Projects\GiraffeApp\GiraffeApp\obj\Debug\GiraffeApp.csprojResolveAssemblyReference.cache
+c:\users\hilcomputer\documents\visual studio 2013\Projects\GiraffeApp\GiraffeApp\obj\Debug\GiraffeApp.MainForm.resources
+c:\users\hilcomputer\documents\visual studio 2013\Projects\GiraffeApp\GiraffeApp\obj\Debug\GiraffeApp.Properties.Resources.resources
+c:\users\hilcomputer\documents\visual studio 2013\Projects\GiraffeApp\GiraffeApp\obj\Debug\GiraffeApp.csproj.GenerateResource.Cache
+c:\users\hilcomputer\documents\visual studio 2013\Projects\GiraffeApp\GiraffeApp\obj\Debug\GiraffeApp.exe
+c:\users\hilcomputer\documents\visual studio 2013\Projects\GiraffeApp\GiraffeApp\obj\Debug\GiraffeApp.pdb
