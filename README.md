@@ -3,6 +3,10 @@
 
 A pogram that can solve any complex/quadratic equation
 
+## OS SUPPORT
+Windows XP, VISTA, 7, 8.1, 10
+Microsoft .NET FrameWork 4.5.2
+
 # ScreenShots
 
 ## The main design
@@ -22,9 +26,7 @@ A pogram that can solve any complex/quadratic equation
 
 ![image3](https://b.top4top.io/p_1492prctm3.png)
 
-# OS SUPPORT
-Windows XP, VISTA, 7, 8.1, 10
-Microsoft .NET FrameWork 4.5.2
+
 
 # License
 MIT LICENSE :smile:
